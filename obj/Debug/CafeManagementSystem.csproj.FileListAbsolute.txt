@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\Admin\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\Admin\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form2.resources
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\Admin\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.manifest
+C:\Users\Admin\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.application
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.manifest
+C:\Users\Admin\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.application
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.manifest
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\bin\Debug\CafeManagementSystem.application
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form2.resources
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.manifest
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.application
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\01. My Projects\C#\Projects\Ceylon Cafe\C# files\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
